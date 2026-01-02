@@ -4,50 +4,17 @@
 
 ## 📋 İçindekiler
 
-1. [Kurulum ve İlk Ayarlar](#kurulum-ve-ilk-ayarlar)
-2. [Hesap Yönetimi](#hesap-yönetimi)
-3. [Grup İşlemleri](#grup-işlemleri)
-4. [Üye Toplama (Scraper)](#üye-toplama-scraper)
-5. [Üye Taşıma (Migration)](#üye-taşıma-migration)
-6. [Toplu Mesaj Gönderme](#toplu-mesaj-gönderme)
-7. [Paketler ve Limitler](#paketler-ve-limitler)
-8. [Hata Çözümleri](#hata-çözümleri)
-9. [İpuçları ve En İyi Pratikler](#ipuçları-ve-en-iyi-pratikler)
-10. [SSS](#sss)
+1. [Hesap Yönetimi](#hesap-yönetimi)
+2. [Grup İşlemleri](#grup-işlemleri)
+3. [Üye Toplama (Scraper)](#üye-toplama-scraper)
+4. [Üye Taşıma (Migration)](#üye-taşıma-migration)
+5. [Toplu Mesaj Gönderme](#toplu-mesaj-gönderme)
+6. [Paketler ve Limitler](#paketler-ve-limitler)
+7. [Hata Çözümleri](#hata-çözümleri)
+8. [İpuçları ve En İyi Pratikler](#ipuçları-ve-en-iyi-pratikler)
+9. [SSS](#sss)
 
----
 
-## 🚀 Kurulum ve İlk Ayarlar
-
-### Sistem Gereksinimleri
-- Python 3.8 veya üzeri
-- Windows, Linux veya macOS
-- Kararlı internet bağlantısı
-
-### Kurulum Adımları
-
-```bash
-# 1. Repoyu klonlayın
-git clone https://github.com/yourusername/telegram-manager.git
-cd telegram-manager
-
-# 2. Gerekli paketleri yükleyin
-pip install -r requirements.txt
-
-# 3. Uygulamayı başlatın
-python app.py
-```
-
-### İlk Giriş
-
-1. Tarayıcınızda `http://localhost:5000` adresine gidin
-2. "Kayıt Ol" butonuna tıklayın
-3. E-posta ve şifre ile hesap oluşturun
-4. Giriş yapın
-
-> ⚠️ **ÖNEMLİ:** İlk kayıt olan kullanıcı otomatik olarak **Admin** rolü alır.
-
----
 
 ## 👤 Hesap Yönetimi
 
